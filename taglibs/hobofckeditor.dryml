@@ -1,0 +1,5 @@
+<def tag="fckeditor-assets">
+  <script src="/javascripts/fckeditor/fckeditor.js"></script>
+  <javascript name="hobofckeditor"/>
+  <stylesheet name="hobofckeditor"/>
+</def>
